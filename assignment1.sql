@@ -26,7 +26,7 @@ INSERT INTO Clients (cid, first_name, last_name, address, phone, age)
     VALUES (6, Jenner, Darcy, 659 Oakland crt, 4639856325, jdarcy@jennerdarcy.com);
 
 
--- MAX() & MIN() functions return the maximum or minimum values in a set of values.
+-- MAX() function returns the maximum value in a set of values.
 
 SELECT MAX(age)
 FROM Clients;
