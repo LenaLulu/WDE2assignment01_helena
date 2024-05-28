@@ -32,7 +32,6 @@ SELECT MAX(age)
 FROM Clients;
 --returns the maximum age in the Clients table.
 
-
 -- COUNT() function returns the number of records returned by a select query. 
 
 SELECT COUNT(cid)

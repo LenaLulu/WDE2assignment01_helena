@@ -9,6 +9,8 @@ MAX()
 Parameter Values:
 Expression --> Required. A numeric value(a field or formula)
 
+****************
+
 COUNT() FUNCTION 
 
 Definition & Usage:
@@ -19,6 +21,8 @@ COUNT()
 
 Parameter Values:
 Expression --> Required. A field or a string value
+
+****************
 
 TRIM() FUNCTION
 
